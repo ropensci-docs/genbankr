@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9fe5cc09b482cb2e825a15341c396074e4545221",
+    "author": "Nitesh Turaga <nitesh.turaga@gmail.com>",
+    "time": "2021-05-19 16:19:55",
+    "files": 1,
+    "merge": false,
+    "message": "bump x.y.z version to odd y following creation of RELEASE_3_13 branch\n"
+  },
+  "remote": "https://git.bioconductor.org/packages/genbankr",
+  "pkg": "genbankr"
+}

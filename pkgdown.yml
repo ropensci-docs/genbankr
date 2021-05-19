@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  genbankr: genbankr.html
+last_built: 2021-07-10T10:24Z
+urls:
+  reference: https://docs.ropensci.org/genbankr/reference
+  article: https://docs.ropensci.org/genbankr/articles
+
